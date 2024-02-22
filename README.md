@@ -1,3 +1,3 @@
 # Reinforcement-Learning
 
-Reinforcement_Learning çalışmalarımı ve medium yazılırımı içermektedir.
+Reinforcement_Learning çalışmalarımı ve medium yazılarıımı içermektedir.
